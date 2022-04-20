@@ -1,0 +1,28 @@
+{
+    "trips":[
+        {
+            "title": "First Journey",
+            "price": "N200",
+            "id": "1",
+            "loc": "europe"
+        },
+        {
+            "title": "Second Journey",
+            "price": "N300",
+            "id": "2",
+            "loc": "europe"
+        },
+        {
+            "title": "Third Journey",
+            "price": "N400",
+            "id": "3",
+            "loc": "europe"
+        },
+        {
+            "title": "Fourth Journey",
+            "price": "N500",
+            "id": "4",
+            "loc": "nigeria"
+        }
+    ]
+}
